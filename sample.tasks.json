@@ -1,0 +1,30 @@
+{
+  "FRANCETV": {
+    "wrapper": "./wrappers/francetv.json",
+    "source": "https://www.france.tv/france-2/journal-20h00/",
+    "array": {
+      "name": "items"
+    },
+    "command": {
+      "shell": "echo #link",
+      "last": true,
+      "history": true
+    }
+  },
+  "BITS": {
+    "wrapper": "./wrappers/youtube.json",
+    "source": "https://www.youtube.com/channel/UCrmhXLlm2wnWKzrtlP8KJ2w/videos",
+    "array": {
+      "name": "items",
+      "filter": {
+        "_key": "title",
+        "_value": "Bits"
+      }
+    },
+    "command": {
+      "shell": "echo #link",
+      "last": true,
+      "history": true
+    }
+  }
+}

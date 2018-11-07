@@ -1,0 +1,23 @@
+{
+  "model": {
+    "_structure": {
+      "title": "h1",
+      "items": [
+        {
+          "_find": ".card-link",
+          "_set": {
+            "link": "@href"
+          }
+        }
+      ]
+    },
+    "_types": [
+      {
+        "_data": "array",
+        "_type": "schemeRelative",
+        "_path": "items",
+        "_key": "link"
+      }
+    ]
+  }
+}

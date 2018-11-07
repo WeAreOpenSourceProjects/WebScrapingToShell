@@ -1,0 +1,25 @@
+{
+  "model": {
+    "_structure": {
+      "title": "h2.epic-nav-item-heading",
+      "items": [
+        {
+          "_find": ".yt-lockup-dismissable",
+          "_set": {
+            "link": ".yt-lockup-title a@href",
+            "title": ".yt-lockup-title a",
+            "duration": ".yt-lockup-title span"
+          }
+        }
+      ]
+    },
+    "_types": [
+      {
+        "_data": "array",
+        "_type": "youtube",
+        "_path": "items",
+        "_key": "link"
+      }
+    ]
+  }
+}
