@@ -15,7 +15,7 @@
   "dependencies": {
     "eslint": "^5.0.1",
     "eslint-config-airbnb": "^17.0.0",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "lodash": "^4.17.10",
     "osmosis": "^1.1.7",
     "path": "^0.12.7",
