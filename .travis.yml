@@ -15,5 +15,7 @@ before_install:
   - export PATH="$HOME/.yarn/bin:$PATH"
 install: 
   - yarn
+script:
+  - cp sample.tasks.json tasks.json
 after_script:
   - yarn test
