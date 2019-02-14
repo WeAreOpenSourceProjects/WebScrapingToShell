@@ -1,3 +1,7 @@
+[![Code Climate](https://badges.weareopensource.me/codeclimate/maintainability-percentage/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://codeclimate.com/github/WeAreOpenSourceProjects/WebScrapingToShell/maintainability)
+ [![Dependencies Status](https://david-dm.org/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://david-dm.org/WeAreOpenSourceProjects/WebScrapingToShell) [![Greenkeeper badge](https://badges.greenkeeper.io/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://greenkeeper.io/)
+ [![Known Vulnerabilities](https://snyk.io/test/github/WeAreOpenSourceProjects/WebScrapingToShell.svg/badge.svg?style=flat-square)](https://snyk.io/test/github/weareopensource/node)
+
 [![Blog](https://badges.weareopensource.me/badge/Read-On%20our%20Blog-1abc9c.svg?style=flat-square)](https://weareopensource.me) [![Slack](https://badges.weareopensource.me/badge/Chat-On%20Slack-d0355b.svg?style=flat-square)](mailto:weareopensource.me@gmail.com?subject=Join%20Slack&body=Hi,%20I%20found%20your%20community%20We%20Are%20Open%20Source.%20I%20would%20be%20interested%20to%20join%20the%20Slack%20to%20share%20and%20discuss%20about%20...%20,%20Thanks) [![Mail](https://badges.weareopensource.me/badge/Contact-By%20Mail-3498db.svg?style=flat-square)](mailto:weareopensource.me@gmail.com?subject=Contact)
 
 
