@@ -6,7 +6,9 @@
         {
           "_find": ".js-card-link",
           "_set": {
-            "link": "@href"
+            "link": "@href",
+            "title": ".c-card-video__title",
+            "description": ".c-card-video__description"
           }
         }
       ]
