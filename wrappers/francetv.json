@@ -4,7 +4,7 @@
       "title": "h1",
       "items": [
         {
-          "_find": ".card-link",
+          "_find": ".js-card-link",
           "_set": {
             "link": "@href"
           }
