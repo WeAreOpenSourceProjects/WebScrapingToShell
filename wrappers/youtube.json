@@ -19,6 +19,11 @@
         "_type": "youtube",
         "_path": "items",
         "_key": "link"
+      }, {
+        "_data": "array",
+        "_type": "youtubeDuration",
+        "_path": "items",
+        "_key": "duration"
       }
     ]
   }

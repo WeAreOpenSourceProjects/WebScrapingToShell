@@ -16,10 +16,13 @@
     "source": "https://www.youtube.com/channel/UCrmhXLlm2wnWKzrtlP8KJ2w/videos",
     "array": {
       "name": "items",
-      "filter": {
+      "filters": [{
         "_key": "title",
         "_value": "Bits"
-      }
+      }, {
+        "_key": "duration",
+        "_duration": 90
+      }]
     },
     "command": {
       "shell": "echo #link",
