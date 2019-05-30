@@ -29,7 +29,7 @@
     "osmosis": "^1.1.10",
     "path": "^0.12.7",
     "request": "^2.88.0",
-    "husky": "^2.0.0",
+    "husky": "^2.3.0",
     "waos-conventional-changelog": "^1.7.1"
   },
   "config": {
