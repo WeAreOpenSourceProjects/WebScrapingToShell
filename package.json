@@ -11,7 +11,9 @@
   },
   "scripts": {
     "test": "TASK='BITS' node index.js",
-    "commit": "npx git-cz"
+    "commit": "npx git-cz",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "husky": {
     "hooks": {
@@ -30,11 +32,13 @@
     "path": "^0.12.7",
     "request": "^2.88.0",
     "husky": "^3.0.0",
-    "waos-conventional-changelog": "^1.7.2"
+    "waos-conventional-changelog": "^1.7.2",
+    "snyk": "^1.190.0"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/waos-conventional-changelog"
     }
-  }
+  },
+  "snyk": true
 }
