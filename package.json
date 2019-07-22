@@ -23,7 +23,7 @@
   "dependencies": {
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.1.0",
-    "commitizen": "^4.0.1",
+    "commitizen": "^4.0.3",
     "eslint": "^6.0.0",
     "eslint-config-airbnb": "^17.1.1",
     "fs": "0.0.2",
