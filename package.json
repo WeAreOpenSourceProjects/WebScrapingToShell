@@ -33,7 +33,7 @@
     "path": "^0.12.7",
     "request": "^2.88.0",
     "snyk": "^1.232.0",
-    "waos-conventional-changelog": "^1.7.2"
+    "waos-conventional-changelog": "^1.8.0"
   },
   "config": {
     "commitizen": {
