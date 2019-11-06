@@ -32,7 +32,7 @@
     "osmosis": "^1.1.10",
     "path": "^0.12.7",
     "request": "^2.88.0",
-    "snyk": "^1.240.3",
+    "snyk": "^1.243.0",
     "waos-conventional-changelog": "^1.8.0"
   },
   "config": {
