@@ -31,7 +31,7 @@
     "lodash": "^4.17.15",
     "osmosis": "^1.1.10",
     "path": "^0.12.7",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "snyk": "^1.278.2",
     "waos-conventional-changelog": "^1.9.1"
   },
