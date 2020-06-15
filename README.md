@@ -1,5 +1,5 @@
 [![Build Status](https://badges.weareopensource.me/travis/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://travis-ci.org/WeAreOpenSourceProjects/WebScrapingToShell) [![Code Climate](https://badges.weareopensource.me/codeclimate/maintainability-percentage/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://codeclimate.com/github/WeAreOpenSourceProjects/WebScrapingToShell/maintainability)
- [![Dependencies Status](https://david-dm.org/WeAreOpenSourceProjects/WebScrapingToShell.svg?style=flat-square)](https://david-dm.org/WeAreOpenSourceProjects/WebScrapingToShell) [![Dependabot](https://badges.weareopensource.me/badge/Dependabot-enabled-brightgreen.svg?style=flat-square)](https://dependabot.io/)
+ [![Dependabot](https://badges.weareopensource.me/badge/Dependabot-enabled-brightgreen.svg?style=flat-square)](https://dependabot.io/)
  [![Known Vulnerabilities](https://snyk.io/test/github/WeAreOpenSourceProjects/WebScrapingToShell/badge.svg?style=flat-square)](https://snyk.io/test/github/WeAreOpenSourceProjects/WebScrapingToShell)
 
 # Presentation
