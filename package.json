@@ -28,7 +28,7 @@
     "eslint-config-airbnb": "^18.2.0",
     "fs": "0.0.2",
     "husky": "^4.2.5",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "osmosis": "^1.1.10",
     "path": "^0.12.7",
     "request": "^2.88.2",
