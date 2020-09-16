@@ -21,18 +21,18 @@
     }
   },
   "dependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
-    "commitizen": "^4.0.5",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "commitizen": "^4.2.1",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
     "fs": "0.0.2",
-    "husky": "^4.2.5",
-    "lodash": "^4.17.15",
+    "husky": "^4.3.0",
+    "lodash": "^4.17.20",
     "osmosis": "^1.1.10",
     "path": "^0.12.7",
     "request": "^2.88.2",
-    "snyk": "^1.317.0",
+    "snyk": "^1.393.0",
     "waos-conventional-changelog": "^1.10.0"
   },
   "config": {
