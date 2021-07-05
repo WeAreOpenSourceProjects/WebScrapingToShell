@@ -24,7 +24,7 @@
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "commitizen": "^4.2.4",
-    "eslint": "^7.29.0",
+    "eslint": "^7.30.0",
     "eslint-config-airbnb": "^18.2.0",
     "fs": "0.0.2",
     "husky": "^6.0.0",
